@@ -1,0 +1,7 @@
+*~
+_book
+.DS_Store
+node_modules
+gitbook
+package-lock.json
+search_index.json
