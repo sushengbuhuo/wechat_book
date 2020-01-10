@@ -208,7 +208,7 @@ Chrome浏览器搭配扩展更好用。
 [如何在豆瓣租房小组快速找到满意的房子](https://mp.weixin.qq.com/s/k5lBwiDzGgSU3fh2v2Rw9A)
 
 [那些你可能不知道的 bilibili 奇技淫巧](https://mp.weixin.qq.com/s/HpuInXUCjSYT7HLqhoRcCA)  
- ，
+
 [那些你可能不知道的视频下载奇技淫巧](https://mp.weixin.qq.com/s/5InOxKmi9eXk33G_8N3byQ)
 
 [周末推荐几个好用的免费在线看电影网站](https://mp.weixin.qq.com/s/-65DhkgUv0cUCgYbro67MQ)
@@ -217,7 +217,9 @@ Chrome浏览器搭配扩展更好用。
 
  ### 知识星球
 最后推荐下我的知识星球，目前星友1200+人，有兴趣的小伙伴免费加入我的星球吧，每天更新一些有意思的内容，我几乎把它当微博用了。
+
 ![免费星球](https://upload-images.jianshu.io/upload_images/17817191-393b26173c148690.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![image.png](https://upload-images.jianshu.io/upload_images/17817191-47dca3bc32b5a507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 还有几个小时 2019 年都要过去了，你会怀念它吗？
